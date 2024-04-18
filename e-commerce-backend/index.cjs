@@ -12,7 +12,7 @@ app.use(cors());
 
 // Database Connection With MongoDB
 mongoose.connect(
-  "mongodb+srv://amanverma152001:mernstack@cluster0.x6xvftd.mongodb.net/e-commerce"
+  "nongodb URL"
 );
 
 //Image Storage Engine
